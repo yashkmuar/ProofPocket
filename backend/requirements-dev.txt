@@ -1,0 +1,1 @@
+﻿# Dev-only dependencies: pytest, httpx, ruff, mypy.

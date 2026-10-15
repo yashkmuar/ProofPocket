@@ -1,0 +1,2 @@
+# Full-stack local Compose: database + backend + frontend.
+# The database-only definition lives in backend/compose.yaml.
